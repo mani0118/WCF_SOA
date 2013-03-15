@@ -1,1 +1,1 @@
-﻿
+﻿<%@ ServiceHost Service="MyWCFSerices.HelloWorldService" %>
