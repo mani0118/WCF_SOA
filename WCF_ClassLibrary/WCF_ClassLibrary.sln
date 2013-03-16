@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostDevServer", "HostDevSer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{01692683-FD06-4827-9ADF-DD39482EC428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostCmdLineApp", "HostCmdLineApp\HostCmdLineApp.csproj", "{78BE7070-29BC-4B7B-B8B7-83E2B45788FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{01692683-FD06-4827-9ADF-DD39482EC428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01692683-FD06-4827-9ADF-DD39482EC428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01692683-FD06-4827-9ADF-DD39482EC428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78BE7070-29BC-4B7B-B8B7-83E2B45788FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BE7070-29BC-4B7B-B8B7-83E2B45788FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BE7070-29BC-4B7B-B8B7-83E2B45788FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BE7070-29BC-4B7B-B8B7-83E2B45788FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
